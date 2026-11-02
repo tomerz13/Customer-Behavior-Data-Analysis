@@ -32,9 +32,10 @@ Data Visualization & Strategy: Executive reporting, KPI tracking, and translatin
 
 ## Results & Business Recommendation:
 
-By staging the cleaned data in SQL Server and analyzing the results, I was able to give stakeholders clear visibility into customer demographics and product performance. This analysis showed us that a massive 73% of our customers are not subscribed, yet 2,518 of those unsubscribed users are repeat buyers (having made more than 5 previous purchases). Additionally, we found that the Male segment drives 68% of total revenue ($157k+), and products like Hats and Sneakers are heavily reliant on discounts (approx. 50% discount rate).
+By staging the cleaned data in SQL Server and analyzing the results, I was able to give stakeholders clear visibility into customer demographics and product performance. This analysis showed that a massive 73% of the customers are not subscribed, yet 2,518 of those unsubscribed users are repeat buyers (having made more than 5 previous purchases). Additionally, I found that the Male segment drives 68% of total revenue ($157k+), and products like Hats and Sneakers are heavily reliant on discounts (approx. 50% discount rate).
 
- (Note: Add a screenshot of your presentation KPI slide or Power BI dashboard here)
+<img width="1309" height="732" alt="image" src="https://github.com/user-attachments/assets/dd61ec2b-5cef-4374-b188-8f6775cc76e6" />
+
 
 Because the biggest revenue impacts will likely come from increasing subscription rates and protecting profit margins, I recommend the following business adjustments:
 
