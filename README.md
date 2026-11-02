@@ -51,7 +51,7 @@ I believe these adjustments will best tackle the current margin risks, increase 
 
 ## Next Steps:
 
-If I had more time to work on this project, I would explore the following:
+For upcoming projects, I would explore the following:
 
 A/B Test Marketing Copy: Run A/B tests on the promotional emails sent to the 2,518 prime targets to see which incentives (e.g., free shipping vs. flat percentage off) drive higher subscription conversions.
 
