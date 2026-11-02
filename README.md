@@ -1,6 +1,6 @@
-Customer Shopping Behavior Analysis 🛒
+##Customer Shopping Behavior Analysis 🛒
 
-Executive Summary:
+##Executive Summary:
 
 Using Python, SQL Server, and Data Visualization tools, I analyzed a dataset of 3,900 retail transactions to uncover customer spending patterns and identify opportunities for revenue growth. After identifying that the largest untapped revenue source lies in converting highly active shoppers into subscribers, and noticing significant margin risks due to high discount dependency on specific items, I recommend that the marketing and sales teams implement a few strategic adjustments:
 
@@ -12,17 +12,17 @@ Reallocate marketing spend towards high-value demographic cohorts.
 
 Number Impact: Successfully converting the identified pool of repeat non-subscribers could tap into $170k+ of existing segment revenue, while optimizing margins on items with a nearly 50% discount rate.
 
-Business Problem:
+##Business Problem:
 
 Consistent recurring revenue is essential for long-term retail growth, yet stakeholders have noticed that subscription enrollment is lagging despite high overall sales volume. Furthermore, there is growing concern that heavy reliance on promotional codes is eroding profit margins on popular items.
 
 How can we segment our customer base to determine who our most loyal (but unsubscribed) customers are, and how can we optimize our discount strategies without losing purchase volume?
 
- (Note: Add a screenshot of a relevant visual or flowchart here)
+<img width="875" height="669" alt="image" src="https://github.com/user-attachments/assets/1a6efb60-ec02-410e-9290-1e997f036ed8" />
 
-Methodology:
 
-Skills:
+
+## Methodology (Skills):
 
 Python: pandas (Data loading, cleaning, handling missing values in review ratings), Feature Engineering (creating age_group bins and mapping purchase_frequency_days), SQLAlchemy (Database connection and ETL process to SQL Server).
 
@@ -30,7 +30,7 @@ SQL Server: CTEs (Common Table Expressions), Window Functions (ROW_NUMBER), Aggr
 
 Data Visualization & Strategy: Executive reporting, KPI tracking, and translating statistical analysis into actionable business recommendations.
 
-Results & Business Recommendation:
+##Results & Business Recommendation:
 
 By staging the cleaned data in SQL Server and analyzing the results, I was able to give stakeholders clear visibility into customer demographics and product performance. This analysis showed us that a massive 73% of our customers are not subscribed, yet 2,518 of those unsubscribed users are repeat buyers (having made more than 5 previous purchases). Additionally, we found that the Male segment drives 68% of total revenue ($157k+), and products like Hats and Sneakers are heavily reliant on discounts (approx. 50% discount rate).
 
@@ -48,7 +48,7 @@ Targeted Marketing: Focus advertising spend heavily on the Young Adult cohort an
 
 I believe these adjustments will best tackle the current margin risks, increase overall recurring revenue, and maximize the lifetime value (LTV) of our existing active shoppers.
 
-Next Steps:
+##Next Steps:
 
 If I had more time to work on this project, I would explore the following:
 
